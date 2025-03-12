@@ -1,0 +1,2 @@
+# init入股在migrations/models中存在文件会失败
+删除重新init
